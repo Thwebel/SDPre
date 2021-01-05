@@ -6,10 +6,10 @@ public class Objective1Lab2 {
     System.out.println("| 2. Eggs        |");
     System.out.println("| 3. Bread       |");
     System.out.println("----------------");
-
   }
 }
-/** >>  ----------------
+/** Expected output
+>>  ----------------
 >> | Grocery List   |
 >> | 1. Milk        |
 >> | 2. Eggs        |
